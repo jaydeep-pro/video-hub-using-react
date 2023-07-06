@@ -41,23 +41,15 @@ const Home = () => {
         >
           <Image src={img5} h={['40', '400']} filter={'hue-rotate(-130deg)'} />
           <Text letterSpacing={'wides'} lineHeight={'190%'} p={['4', '16']}>
-            Lorem ipsum dolor, sit aet consectetur adipisicing elit. Quam
-            dolores quidem suscipit ipsum vel harum doloremque nesciunt unde
-            quos quo, impedit praesentium ipsa corporis voluptate minima
-            quibusdam repellat inventore ut minus iste itaque aliquam nisi iusto
-            fugiat. Maiores, culpa, hic officiis maxime velit dolorem
-            voluptatibus numquam adipisci est id similique quidem voluptatum
-            reiciendis odit et fugiat facilis cumque exercitationem optio magni
-            aperiam dolor iste deleniti illo. Perspiciatis, sapiente,
-            reprehenderit mollitia dolore ipsa iure ab necessitatibus iste amet
-            ea pariatur facere cupiditate exercitationem quis tempora aliquid
-            sed itaque. Aspernatur maxime quisquam tempore commodi modi
-            assumenda? Aliquam, sapiente recusandae. Iusto cum tempora quidem
-            ipsum. Magni quibusdam cum voluptatem minima reiciendis sapiente
-            eaque labore corrupti est necessitatibus molestias consequatur optio
-            dicta, quia illo voluptates aperiam accusamus mollitia repellat
-            debitis rerum doloribus magnam hic! Sequi amet pariatur sunt culpa!
-            Sint, cum ullam!
+           VideoHub is your ultimate destination for all things video content. Whether you're a movie buff, a TV show fanatic, or a fan of online videos, we've got you covered.
+
+With an extensive collection of movies, TV shows, documentaries, and user-generated content, VideoHub offers a vast library of entertainment options to suit every taste and interest. Our platform is designed to provide you with seamless access to a wide range of videos, allowing you to explore, discover, and indulge in your favorite content.
+
+Experience the convenience of our user-friendly interface, which enables effortless navigation and browsing through various genres, categories, and trending videos. Whether you're in the mood for action-packed blockbusters, heartwarming dramas, side-splitting comedies, or thought-provoking documentaries, VideoHub has it all.
+
+Not only do we curate and provide access to a diverse selection of videos, but we also prioritize the user experience. Our platform allows you to create personalized playlists, bookmark your favorite videos, and receive tailored recommendations based on your viewing history and preferences.
+
+Join our thriving community of video enthusiasts, where you can engage in discussions, share your thoughts, and discover hidden gems recommended by fellow users. Connect with like-minded individuals, expand your cinematic horizons, and never miss out on the latest buzz in the world of video entertainment.
           </Text>
         </Stack>
       </Container>
